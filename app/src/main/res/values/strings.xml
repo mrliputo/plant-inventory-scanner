@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SIIT Scanner</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="title_activity_web_view">WebView</string>
+</resources>
